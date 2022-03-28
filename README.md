@@ -6,5 +6,5 @@
 ## Create your project
 Execute the following command to create your project
 ```bash
-yarn create next-app -e https://github.com/aomwara/next-js-truffle-template
+yarn create next-app -e https://github.com/aomwara/nextjs-truffle-template
 ```
